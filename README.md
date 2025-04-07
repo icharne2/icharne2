@@ -3,7 +3,7 @@
 I am a Computational Engineering student at AGH University of Kraków in Poland.
 
 ## 🛠️ Languages & Tools
-I enjoy writing code in C, C++, C# and Python — these are my favorite languages for both system-level programming and interactive applications.  
+I enjoy writing code in C, C++, C# and Python — these are my favorite languages.
 I have a basic understanding of Unity and have used it for simple game development projects with C#.  
 Additionally, I’m familiar with the basics of JavaScript, Java, HTML, CSS., as well as assembler and MES (Finite Element Method simulations). 
 
