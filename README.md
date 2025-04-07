@@ -22,5 +22,5 @@ Additionally, I’m familiar with the basics of JavaScript, Java, HTML and CSS.
 
 ### 📬 How to reach me:
 
-- 💼 LinkedIn: [linkedin.com/in/twoj-link](https://www.linkedin.com/in/meg-paskowski-45b257356/)
+- 💼 LinkedIn: [linkedin.com/in/meg-paskowski](https://www.linkedin.com/in/meg-paskowski-45b257356/)
 - 📧 Email: [paskowskim1@gmail.com](mailto:paskowskim1@gmail.com)
